@@ -29,7 +29,7 @@ Some command can be different based on the OS so please  consider it.
 
 ## Files Info
 
-1. ```100_remote_company.py``` For extracting top 100 remote based comapny information from [we work remotely](https://weworkremotely.com/top-remote-companies). After that I generate ```100_remote_company.csv``` dataset in data folder.
+1. ```100_remote_company.py``` For extracting top 100 remote based comapny information. After that I generate ```100_remote_company.csv``` dataset in data folder.
 2. ```all_remote_company.py``` For extracting all remote company info and generate ```all_remote_company.csv``` dataset in data folder
 
 3. ```update.py``` Gather more information about company from the 100_remote_company.csv file and do some cleaning. After that I generat and saved ```updated_100_remote_company.csv``` dataset to the data folder. 
